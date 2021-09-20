@@ -1,0 +1,40 @@
+h1{
+    color:yellowgreen;
+}
+h2{
+    color:yellowgreen;
+}
+h3{
+    color:black;
+}
+
+body{
+    background-image: url(../img/003.png);
+    background-repeat: repeat-y;
+    background-size:cover;
+}
+
+li{
+    background-color:skyblue;
+    border-bottom: 1px dotted black;
+    display:inline-block;
+    width:150px;
+}
+
+/**Coment Out**/
+
+.container{
+    border:1px solid blue;
+    display:flex;
+    flex-direction:;
+    flex-wrap:wrap;
+    height:300px;
+    align-content:space-between;
+}
+
+.item{
+    background-color: blue;
+    color:#fff;
+    margin:10px;
+    padding:10px;
+}
